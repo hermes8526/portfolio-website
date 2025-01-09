@@ -511,7 +511,7 @@ export const experiences = [
     positions: [
       {
         title: "Senior Full Stack Blockchain Developer",
-        duration: "Apr 2022 - Sep 2023",
+        duration: "Apr 2022 - Present",
         content: [
           {
             text: "Developed UI Kit that is a kind of library containing UI components to make reusable components and published it as a node module",
